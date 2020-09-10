@@ -4,7 +4,7 @@
 # Collaborator: Peter Schulman pks5481@psu.edu
 # Section: 4
 # Breakout: 6
-lettergrade = "f"
+lettergrade = "a"
 def getLetterGrade(grade):
   if grade >= 93:
     return "A"
