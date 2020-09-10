@@ -6,7 +6,7 @@
 # Breakout: 6
 lettergrade = "f"
 def getLetterGrade(grade):
-  if grade <= 100 and grade >= 93:
+  if grade >= 93:
     return "A"
   elif grade < 93 and grade >= 90:
     return "A-"
